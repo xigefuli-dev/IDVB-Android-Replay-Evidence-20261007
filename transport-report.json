@@ -1,0 +1,17 @@
+{
+  "roundtrip": true,
+  "decodedChunkLimit": 131072,
+  "lineLength": 1024,
+  "encoding": "UTF-8 ASCII without BOM; LF",
+  "maxPublishedFileBytes": 174935,
+  "publicFiles": 1053,
+  "stats": {
+    "logicalFiles": 62832,
+    "uniqueFiles": 1862,
+    "logicalBytes": 2920510299,
+    "uniqueBytes": 1071148584,
+    "sourceArchives": 184,
+    "transportZipBytes": 80936095,
+    "transportChunks": 625
+  }
+}
