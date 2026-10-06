@@ -1,0 +1,5194 @@
+[
+  {
+    "input": "alignment-1791294637784-30795929.zip",
+    "sourceArchiveSha256": "b4bcd0cb38ed9d415e0077893ea222b005f68680bf5f5f8eaad215742e4e2a57",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-000.json",
+    "items": {
+      "captured.png": {
+        "sha256": "d2bad8eec8d91f9c5aff49684496afeab15bd9f47434afd66796dcf2c9133d11",
+        "bytes": 229088,
+        "pack": "batch-000"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "e31521e1796b6936ae563ed9f851b8080a226d7027b3103b5d40cc554901ca94",
+        "bytes": 650254,
+        "pack": "batch-000"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294644969-1287b540.zip",
+    "sourceArchiveSha256": "6c6412091a803e3109acdf55ebcc2800e2904864426834b2b847a28a8df84b8b",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-001.json",
+    "items": {
+      "captured.png": {
+        "sha256": "5c66def9129e0f5cfdc1b764fc3a9b2b221c19ca095cae37ebad5fe4d162ad60",
+        "bytes": 230729,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "0bfa460d0055ca16a8614a4fc37c3bce6b0b993b968b6e4e80a5be28cbd1bae2",
+        "bytes": 592536,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294648968-590ccfce.zip",
+    "sourceArchiveSha256": "6c65cbbf04bd3e508258d1d3734b4d6d943d6d1c47c61e5f9fb28d8ea14768b1",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-002.json",
+    "items": {
+      "captured.png": {
+        "sha256": "05bd757226cff9cfca5541df4dcc2e37c89cd21b1425a130a9daefab182814ed",
+        "bytes": 240071,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "5feee031fd1dcbf65c7d3fc24f7ee423e92625e4c21ba0b4dd3518fc89b37a6f",
+        "bytes": 611623,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294658918-368ae6df.zip",
+    "sourceArchiveSha256": "4dab281e67157c677394a2967e9a7f508d5b54e52a7966be6287819f488abeac",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-003.json",
+    "items": {
+      "captured.png": {
+        "sha256": "4aa5a37d736564fc6ba5517940aa47bf5f01284d2afda339940b85499e46018c",
+        "bytes": 307245,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "0089419b97d45623c4de3d1fba26687abbe2c32e1b3605a61c98ba2bdb39d453",
+        "bytes": 759690,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294664519-5f41ae49.zip",
+    "sourceArchiveSha256": "f57bcb3f4043de1411f42367c51bc1c64ee26dafc17c0a33a9048dfb7439d6de",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-004.json",
+    "items": {
+      "captured.png": {
+        "sha256": "30991903801f7cd6721181c4d21dc0a4cd1ed19093eb025eb75e0107e255ad19",
+        "bytes": 335363,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "9c2f492369e8ec515f1fc7cefd3638ef64725b64d80bc500d5d72c634964a390",
+        "bytes": 764290,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294669699-dd69c725.zip",
+    "sourceArchiveSha256": "9486b786b050ac629b45400d1d01bc4ef077a02638185f964eb7633152d3f3d0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-005.json",
+    "items": {
+      "captured.png": {
+        "sha256": "a250ac07b4d69655187010ccc260b3f024be6bb61dd4251a604e8ca7943191d6",
+        "bytes": 379347,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "e1199ad895c5e4faa0dd7d2f4a37ea5d5e4773f3dd833f05c7d1812b1f113b56",
+        "bytes": 890088,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294675603-a4bbb5df.zip",
+    "sourceArchiveSha256": "4a9003981d727dac5117da8f8bfe9076082a64b695172c7db9617a513d5a9ad0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-006.json",
+    "items": {
+      "captured.png": {
+        "sha256": "03f21abcc0a0ede9ed0909016996b22428a05ef858f712f300dbbc7ddba380ae",
+        "bytes": 437371,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "26d0ccc6f78bd914f93be56cbd421b1a4e817c3c2eab51bcae327a73eee026bd",
+        "bytes": 769606,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294680029-d6abdaa9.zip",
+    "sourceArchiveSha256": "3ebc2569f11ce1934d44c6c343abcee539449e4e57b8a079d216f2f71e27077c",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-007.json",
+    "items": {
+      "captured.png": {
+        "sha256": "a778dfc5c0c1351f39c1c0ea520808d4d0f456a889f2ebb66e600884882f0fd9",
+        "bytes": 439678,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "2d4d941a7ec48444a95d412d768edc73afa41e4295c73d4126dd3072d9d0b7c8",
+        "bytes": 782422,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294685625-6c54003a.zip",
+    "sourceArchiveSha256": "0ebeb105139ddcfc62288adfbfe7270d26c7bcdb76586fccb36bd1a11dfdeb6b",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-008.json",
+    "items": {
+      "captured.png": {
+        "sha256": "8ba6cc542d0f4051c79071874cf4c347a63e5b02ade1a65391964ef828783ecb",
+        "bytes": 414221,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "ff79e3b6f91e6a59411e967f5a0a7450ea6d2a88afdf5ea721c9b31607e9f5ea",
+        "bytes": 781750,
+        "pack": "batch-001"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294690061-0ba1081d.zip",
+    "sourceArchiveSha256": "544016b0316a1167914f48ffff01c0477d2a4723466295a8375c1e91aecbb33e",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-009.json",
+    "items": {
+      "captured.png": {
+        "sha256": "e89b323a4a5c5b78fe7677ace339f655bf9e2f83c3028bc7f3d6815a28e1437f",
+        "bytes": 397876,
+        "pack": "batch-001"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "597e1397086a4ad9d94e59f114595e3cc4539a7fa42b66a4a98b14d92f6ac051",
+        "bytes": 742424,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294694702-54d71016.zip",
+    "sourceArchiveSha256": "57aeccf3012e65e8b9b0293f65966eaffed25afe9708850ddb6da40081b6f38f",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-010.json",
+    "items": {
+      "captured.png": {
+        "sha256": "a8285471a80890a2e61c45f65a3d0e7e43c67df81b1afa21b9d38751aa1ab5c6",
+        "bytes": 342142,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "ce9d4a8a3033037406310fec860b66832d14cd4a5d067ce5908fff21b6d28d25",
+        "bytes": 728258,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294698172-398fedbb.zip",
+    "sourceArchiveSha256": "5a9d9c3ea04733bfb90e12b4d7c4b27ad700bea61785f83580375301ca8dd949",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-011.json",
+    "items": {
+      "captured.png": {
+        "sha256": "f1e01b20d4f7adb76af0a9c8c88a7d0d53fd8e5ddda6229f4cf29e694fb749bf",
+        "bytes": 362388,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "5e49cca4bd3e0a81834da297d88f5cdf2258b89d1019f5ed62fdd99cd549aafb",
+        "bytes": 774417,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294702810-d44b428b.zip",
+    "sourceArchiveSha256": "77737174495ac6e0b2ad3aadc88774d965f4c0754adad757c228c67c38065ed1",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-012.json",
+    "items": {
+      "captured.png": {
+        "sha256": "00410af3692b47d1ad7c22c20ac9c77348ccbcc712b3f6ca857932bb1df0bfca",
+        "bytes": 363296,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "24028c33b4801009b0061829e42e5f1a974fc8c058216ca683c69caebde20952",
+        "bytes": 890732,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294706563-7b5fe5be.zip",
+    "sourceArchiveSha256": "62ae4653e244f738b8d5361159c7a83cbfb8b6938954d40fb90dd3ceee8518bd",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-013.json",
+    "items": {
+      "captured.png": {
+        "sha256": "912dc18a00faa88019c3282d709e5ff0545db89671a817eddfc7c6758e149ddb",
+        "bytes": 367680,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "bd2af1b5c9d10fe8b7f9903eb3834ee0414f2c2ef4821e938563a4b3a337cb11",
+        "bytes": 783843,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294710366-fa21da5e.zip",
+    "sourceArchiveSha256": "3e8cd6681bd2d46d0dd14242db60f9d51274e53b30486c9e0ec8bacd03463381",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-014.json",
+    "items": {
+      "captured.png": {
+        "sha256": "b7f13c02c423f6ba0eccc23b4c27a0e4697870e0c6a71c05fee8921ac4ff743d",
+        "bytes": 434725,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "b309b72ba11083504cdcacc7797e0115fd91890390b7e18ec8d533111a5356e3",
+        "bytes": 793384,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294716207-7327b268.zip",
+    "sourceArchiveSha256": "7991b59899cf9b22bd29412227e83c56733ccbb1c5ec57f25b9324a151b0b2fb",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-015.json",
+    "items": {
+      "captured.png": {
+        "sha256": "0d466c1216136429db78828eebe0bcca84467b2142c6ea527d8939539fcb84fe",
+        "bytes": 436122,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "053e2e6bcd4f014494d9ac740e51dfd0da4cac3b870d5ffde704837964f83ba1",
+        "bytes": 780762,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294722140-3e9cd642.zip",
+    "sourceArchiveSha256": "e0618057f7eae17d331299e26c91dbf3178f3aaa37f0f26215fa6df8b23ba249",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-016.json",
+    "items": {
+      "captured.png": {
+        "sha256": "e08e4c6a0f286b596f65be06dd581e3849fbf06532425cf61184e62b3a10cf08",
+        "bytes": 408498,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "13c77f07890d506e9c02a56e5017cb2baecc234aaa52c79900768e700d4f6021",
+        "bytes": 802019,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294726052-1f1f80c5.zip",
+    "sourceArchiveSha256": "9e80c12ad2346cf4f886a7dd7f5ebe70beb6b486d11f347d1ad6f7aa3b0bd371",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-017.json",
+    "items": {
+      "captured.png": {
+        "sha256": "0f5654c2ec1dcb2eba82a580e170a78df1930697234ee9aca069d38e9a879fce",
+        "bytes": 381752,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "8d1346ef23869c6440aa07a67449697af92ad6b6181ef166485eab963552342e",
+        "bytes": 914710,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294743891-cddd269d.zip",
+    "sourceArchiveSha256": "36ea7a6892098accb1aff51b906f509944670979692bb08addb9c8876e9a8e6d",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-018.json",
+    "items": {
+      "captured.png": {
+        "sha256": "aeff16fec7c3e8c6fbc2f9663cfbf0dbf2e7da764655f3b62ec971c356b3519b",
+        "bytes": 400516,
+        "pack": "batch-002"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "9b7e0c3d7558b5e84bf0ba26c60242f516a8dbb56a8377f9027aa07d837ce7bc",
+        "bytes": 903262,
+        "pack": "batch-002"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294746569-56bef68c.zip",
+    "sourceArchiveSha256": "7704a85130b6f5839e9ff540a6a1935889e5bbbc63e3fe10b9b6c665d2839861",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-019.json",
+    "items": {
+      "captured.png": {
+        "sha256": "c7d7352d76eeac57b78384dbb8b802ed73169607d452da09bffef8248e381e77",
+        "bytes": 414612,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "9705178eb799a7ddd755d2a11129636cd16daaaedaf8e50337b1c48a774ff816",
+        "bytes": 793495,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294759809-6623f8ac.zip",
+    "sourceArchiveSha256": "d6808afc759c997c5bf522e691ed8561e6b85d721e3fcdbfeaf2c2655ee6012a",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-020.json",
+    "items": {
+      "captured.png": {
+        "sha256": "ba362661c6258d88976d9abb056b30b3531f7a522423d5d32e011df68ca845b3",
+        "bytes": 192969,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "2851b2cc1a346ee807fede204b6c44db95b97fc45913d16f66ca49fd2c623626",
+        "bytes": 1242454,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294763986-cfb6717f.zip",
+    "sourceArchiveSha256": "177442614fae985207d4f5f8ae3ac823d5b8882ed6e9f8794fb2b5ebb4205b77",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-021.json",
+    "items": {
+      "captured.png": {
+        "sha256": "b253e6a33eedfe64e2ff0460c608627e9333cfbb0a7de53a0102dba7875f605e",
+        "bytes": 205681,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "28c4ceee7f971dba732545ef02baf113108eaae6e8a31d124a3e4250f995c6c8",
+        "bytes": 601272,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294766569-48dccb22.zip",
+    "sourceArchiveSha256": "74f0809d276fc5cc5eeb7744fd4ddc311cde560432f9af8441244956f94174b6",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-022.json",
+    "items": {
+      "captured.png": {
+        "sha256": "a1e153b8be57e9b61574201ea291f2a5e9336ff9c9e3949f68a0d899de777126",
+        "bytes": 222373,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "936b483951c0952e43b779e7e7291ee26e0145cc22e10b75aa8ea29b6526314a",
+        "bytes": 653949,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294768789-68053884.zip",
+    "sourceArchiveSha256": "eabc26fbe8e66fa627ad60cde190d1c2eac922df5e394135a51a48b75886d62e",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-023.json",
+    "items": {
+      "captured.png": {
+        "sha256": "8034cc2940ce49b547e674b8571e611b1c0871055aec5baeafffca3ff5757546",
+        "bytes": 237190,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "e2cc182c0861c96a6a8ed7ff57506816b26edd678aae217c3725a11a26c38d3f",
+        "bytes": 700720,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294771879-9f75ce7e.zip",
+    "sourceArchiveSha256": "6f585539be1e65cabd6443a91762f9c32b27eda093734a202559c41b4408958c",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-024.json",
+    "items": {
+      "captured.png": {
+        "sha256": "3e7ee48c540b5e0074aede592d7df94af8a7cb9e7f584ee7666abf97dbe7385f",
+        "bytes": 243249,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "d7e77ae452f6948d2d6299deb85dea0904763b248d35952e2ba11dc91fdc1e1f",
+        "bytes": 671138,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294775183-58e03e73.zip",
+    "sourceArchiveSha256": "370053962e56431fd2abea7f320db15ca48364c35973c5257cbe3b3ef1ce3caa",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-025.json",
+    "items": {
+      "captured.png": {
+        "sha256": "c02f21d292525dac028ad2d51d33871aa828186679ad0a4a66c985cf5d51b3b6",
+        "bytes": 260188,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "b287e4d33793f0be557a159c5a4a562c93f3cfadd4c00935c097fcedb5e59630",
+        "bytes": 728451,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294777478-6aebb7e3.zip",
+    "sourceArchiveSha256": "194ad830d390770b4bb4e7df3a807790cd9f1a658d8bbe78c4379adba3b6e391",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-026.json",
+    "items": {
+      "captured.png": {
+        "sha256": "751fa33d6c78ebdc69c5dfd918a5b12bbee81a0f7171cf6a44952247a86873dd",
+        "bytes": 270313,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "6ab0e9162d19413cd934986a0a1ea8b53550ecf6f611305ba8c6cad53f82f18b",
+        "bytes": 2330419,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294779632-e540b3b6.zip",
+    "sourceArchiveSha256": "6492ae4455215aa2920d3bacc970954ea840e4198d0e91a7e7ad1d0b93ffd54e",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-027.json",
+    "items": {
+      "captured.png": {
+        "sha256": "d79846eda7d6e41e1b42883e73b9ec1e6452cec1a8e559384f61a9b8aec0147d",
+        "bytes": 270633,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "5bb5a0900f835085efa66935bdcfbc5a518220dcc3abcc5377ba3153bdefec18",
+        "bytes": 679629,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294782430-8a5e1546.zip",
+    "sourceArchiveSha256": "06d3fd959e1845db55931e68f56e8e977ad679a3c9879b4c92599e88fc6e73c0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-028.json",
+    "items": {
+      "captured.png": {
+        "sha256": "2009d8361176eb769cb1b300120fad55e8f8f6449082a5eacfb400361cd7f305",
+        "bytes": 286471,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "e0ff869ba0aceb5a98265528fd5e4871e91cf9f57e493efa0bfcd0c93cef012b",
+        "bytes": 754205,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294785298-6369b5cd.zip",
+    "sourceArchiveSha256": "fbb61e5ee28ec219e348659f0dc70f18c151bc23cea90e96bbd99ab9a72d1f5f",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-029.json",
+    "items": {
+      "captured.png": {
+        "sha256": "3fd5e513e449b316495e5ee55fd8cb1b9caa0e854c98dabd34a5a5b8b31624d8",
+        "bytes": 286399,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "165ffbbb27a66fdeba1d910670c7fcfef36af45153f48201ea254ef8a5a7665e",
+        "bytes": 767489,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294788340-359aa931.zip",
+    "sourceArchiveSha256": "3e11fd012b59eaef934f79f37e02a23fdfc04d6e22a8fb17ebd79695f92ec092",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-030.json",
+    "items": {
+      "captured.png": {
+        "sha256": "da2225ed658b5272779bcf87884167939c96edc74f1062bb0b8e680017795956",
+        "bytes": 280729,
+        "pack": "batch-003"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "cfcafbce9d17d97dfde71feb8795d107d364810c658c1342302ce2811398cb0c",
+        "bytes": 763999,
+        "pack": "batch-003"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294794427-dbf17731.zip",
+    "sourceArchiveSha256": "034205f9e0c6bada408bec6b8eb9cdf161d67eaa4e809fcafaebe08c9133e2a0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-031.json",
+    "items": {
+      "captured.png": {
+        "sha256": "12a4f78dcfbe1a222cd1b25c12212f0fbeb69c8fc3c0f8495a84e77178258536",
+        "bytes": 303387,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "df3df8bb81f346f91cb333ad7d7153acca95078719037b0d2a90b247152a15bd",
+        "bytes": 775335,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294800770-4cd4bfd1.zip",
+    "sourceArchiveSha256": "2dbe139a6b061204d2235fc6db1e2e054f8fed8dfd5c9c3361cffa832ca4531f",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "2f",
+    "caseIndex": "cases/case-032.json",
+    "items": {
+      "captured.png": {
+        "sha256": "ed326d51a509cf02b9c6ea6a5ebdc2d635d1a1ee7583065151ab3794c49da53c",
+        "bytes": 317467,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "d1db871f7a71cb22a74942270b924384404abb84f85b3bb8f9aa0bb776f9ec6f",
+        "bytes": 874172,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791294826637-d6d31b04.zip",
+    "sourceArchiveSha256": "163f3c1366d4df30253cb8f689fb6d22684fa53780ceb40a82ae6a53ff993079",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0398",
+    "mapId": "617fe60f-43cb-419a-b9f2-a49f6d69d5ca",
+    "floor": "1f",
+    "caseIndex": "cases/case-033.json",
+    "items": {
+      "captured.png": {
+        "sha256": "d726f893985e8506ffa130aa19463c5613b15a7f2b91640750aa3de4902d5a80",
+        "bytes": 419998,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "c46d092fbc5a45b870aa171b2297d3e56eb013f4f867eb844184785c034b67aa",
+        "bytes": 373229,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "d3dd3f0c699f81a1afc3e8bcf8bad4f9ca0615bbc7a392a82818e34ecc19afc3",
+        "bytes": 898427,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295617790-02606b75.zip",
+    "sourceArchiveSha256": "a67093fb36643f7fb39e3098ac20b22630f462788e3679ed8c125541a2d79d85",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-034.json",
+    "items": {
+      "captured.png": {
+        "sha256": "fe26a63e178f1076550a560044595e444cbb986fe6b93f4caa335c6905b5f206",
+        "bytes": 264657,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "f8fbdf91f6fb458b7eb9a69805f6d0d2a214d072fd73c5a26c81aa0c5f624dce",
+        "bytes": 898555,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295620668-1a570132.zip",
+    "sourceArchiveSha256": "7d20b8f5f6df8ae76273db204a6b87253cad33f204a7ee901ff56048be1c7026",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-035.json",
+    "items": {
+      "captured.png": {
+        "sha256": "b54baac7f8e3955ddc61109dd7ed9f984f7e31e80e09a884d5cd39bf20de05e0",
+        "bytes": 256424,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "405f57a5fdad758ed9ac1738031e441ff8ff9a67d0dee62ea84e9a56c196e000",
+        "bytes": 686273,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295626292-3ff42a3b.zip",
+    "sourceArchiveSha256": "2e04480e2816f5975af7548ffa09c886fe9cfadbb4bb2733316521e87b863dcd",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-036.json",
+    "items": {
+      "captured.png": {
+        "sha256": "ec788e637c701a97231c3c39c88fb104edfdd75556b74f48f6b69a18694a2817",
+        "bytes": 256003,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "b731514996d01fbde1d54ed335bc7e18ce3010a3f890ecd3b4ed92e9839133de",
+        "bytes": 871943,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295630100-9b5696e1.zip",
+    "sourceArchiveSha256": "28fb91255b05c40bc3fd9503886d763eda47667b91539c65896da6f3420b5a87",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-037.json",
+    "items": {
+      "captured.png": {
+        "sha256": "e5e5d7d9e8fdad08f7de24b19ed2e7e6294bb709747b81a4835a7e3462ca0063",
+        "bytes": 285444,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "6278b2e19644426bdde63d29ae32508738968670d11f3ce7d57499c05837aea1",
+        "bytes": 724232,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295633162-94818cf9.zip",
+    "sourceArchiveSha256": "014cc21c632f36be5b27dacd44860df1ff09ed877e08e4d97f81117a1b9be9e6",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-038.json",
+    "items": {
+      "captured.png": {
+        "sha256": "69f8d11ed3a1f353c82e26573554ee53ed9b9172bd6891fe22679480bc1c7a44",
+        "bytes": 289304,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "3d4b451ceefb291dbc1eb5be1020173ac7e20fc655765bb25c6c40e0a4900d6b",
+        "bytes": 614028,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295637807-041ab294.zip",
+    "sourceArchiveSha256": "9c7fc5464f073f0d84215d228fbe60d30cbe7d96f922d3aadf90abf22fcc6ba3",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-039.json",
+    "items": {
+      "captured.png": {
+        "sha256": "66a6eda5aad7481474154056402e119767f3f9d32906837fb54884a953ccbea2",
+        "bytes": 267933,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "db92ad72d5aa0a4f328dbfe6abc2e8f241542eb4b17ab7c178719968ea3a3c4a",
+        "bytes": 557842,
+        "pack": "batch-004"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295642443-b5862d62.zip",
+    "sourceArchiveSha256": "0c14b7485dbbfc583c30e893b2d70479f9fbcdaaed2b19670807b6c9edb147af",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-040.json",
+    "items": {
+      "captured.png": {
+        "sha256": "fab78be09e0cff1045798a25f7067c30f7a9605c869123c9b9f812b696cad054",
+        "bytes": 290446,
+        "pack": "batch-004"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "cc5848d1478b9961980a2d4370763bd4f85f9d0ec90a5b44b359d335ff8c68e6",
+        "bytes": 888786,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295661156-81fcbfe9.zip",
+    "sourceArchiveSha256": "b0bff39386962570ad5a4e918fa96e37101be7d52e786ba76e0651ab38f74484",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-041.json",
+    "items": {
+      "captured.png": {
+        "sha256": "c6cf195f4f9604c7bc92963f319647711dab969180cc116950e9d529a8e1a619",
+        "bytes": 357748,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "709d21f6c60fe19601725be510fd9e961c43ba50ad713e28cf99597bd5d5aea3",
+        "bytes": 758060,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295665935-39496d31.zip",
+    "sourceArchiveSha256": "bbc723295efe163df1c4bf40c0ecd80a15ac00879742a8cde193bfcde9e4e7e6",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-042.json",
+    "items": {
+      "captured.png": {
+        "sha256": "da756ca91f1b51e1729726585b6a56c00086284ce459c52c0d8126649b00db82",
+        "bytes": 338688,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "1a39087c582433233e4573c32c4bc71ee6fb5f2bae91f15d19bc4e7890ec6d27",
+        "bytes": 769021,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295670387-d3e1f6f9.zip",
+    "sourceArchiveSha256": "9c9b674d7ebc26e99c2fc30d7b86f15f206910327d2de97be4cf4099f72c29cd",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-043.json",
+    "items": {
+      "captured.png": {
+        "sha256": "f22813bbd4b6fd133c16d1a1a4a931f2b5742017c9fd783687be6d4ffc3e6b50",
+        "bytes": 322727,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "fef3752b2f659ba505882681374c596666b5f5dd8e8915c86e145ba926f3bfae",
+        "bytes": 750940,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295672777-0ab77b63.zip",
+    "sourceArchiveSha256": "5d838d5dd8c139449dbb5cab8f5d71d5fc4a0cd02f5f11c4eed29237e16609b7",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-044.json",
+    "items": {
+      "captured.png": {
+        "sha256": "cb256e39ae70a4e518aad511b11311720aac0cdf029bf063e59f9385d1a7cc65",
+        "bytes": 345831,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "7b9b3ecac6ae254fb76e10b5108e4016ac2d0c7022d042b0ccf90f29335e504f",
+        "bytes": 749202,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295675177-e7acc4d5.zip",
+    "sourceArchiveSha256": "4e44c37b6211597fdc03812ec284a4b43e446b34e9a337aabdf2e8bc7edefb07",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-045.json",
+    "items": {
+      "captured.png": {
+        "sha256": "dc93cf5919ab0201b843d13bf25ec27cdff0e2d741fb62dcf0ac63ecf5207dd0",
+        "bytes": 365047,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "ff86ee79f17d5b47ae1079d275ab9ecda6d3c79c373ec4dfec7640e1dad5f4b8",
+        "bytes": 1024070,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295677606-e3924719.zip",
+    "sourceArchiveSha256": "3fb03382b1e7e5d73ebbc87d0b054ea61bb548c1c8a48789efa49915944dbf61",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-046.json",
+    "items": {
+      "captured.png": {
+        "sha256": "800908d02cef521b07285dbaac3c213243a9f49e7b6c52a940c7f50c85055501",
+        "bytes": 378154,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "f9d5ee7695cf44ea8e910ca6283b50ead2cb1359b19225e636c82ae3aef89036",
+        "bytes": 903024,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295679805-dadb464d.zip",
+    "sourceArchiveSha256": "5ace55d9e9d122bb396acaf84a3fb53829708716bdd2cba25033d19c948e061e",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-047.json",
+    "items": {
+      "captured.png": {
+        "sha256": "f2d7c003a7940b3493b9c5015b8e1cb21e31f7f536abffd5999457a2f5cf0a34",
+        "bytes": 383349,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "23e0ee124d2323616110ec5a7ad8302f9c47cf950e90a8fc6038c131cf9c4219",
+        "bytes": 907836,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295691205-800ecc02.zip",
+    "sourceArchiveSha256": "45de089e9b3c677682e5350485df1021bf6cd4d69774329d21e0f3151fb436b0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-048.json",
+    "items": {
+      "captured.png": {
+        "sha256": "d29e8afe105ff3926a735eb118348f88abd2f08e2de9fa6d8c2b6ccaba1d8327",
+        "bytes": 346676,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "310ab440791960434ce5c7e8351edecb448c770c3ee224f620a9d049780a41f2",
+        "bytes": 760076,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295695452-010468cd.zip",
+    "sourceArchiveSha256": "181917d76958f725ea8a8e43a086416926391621bfb21f94a655422731541be6",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-049.json",
+    "items": {
+      "captured.png": {
+        "sha256": "28d9f8bd505c4bc8e84acaacdec27ca3a4ccf92dc1be30672db2c0c34af3c277",
+        "bytes": 376230,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "79c81dfa1eeabc7727d3333e3e333add360968d58d0561cfe02b070cf1a17776",
+        "bytes": 779644,
+        "pack": "batch-005"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295704736-51ff291e.zip",
+    "sourceArchiveSha256": "167a9d2f1c5fc5cd64ea1e733ceefe340fdd2cf66fe9ab81b6df407d7c98c257",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-050.json",
+    "items": {
+      "captured.png": {
+        "sha256": "27c6541be69822656114a49ac19cfe4e03c2409ea2ece2fd6968137d5e25f53c",
+        "bytes": 429859,
+        "pack": "batch-005"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "00d516be89e5c7d5979de9b79fe0590775f55795037b88478ae2b491e655cb88",
+        "bytes": 789025,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295708325-f9eba319.zip",
+    "sourceArchiveSha256": "f6a7ea4dc702d31a40ff2ed95e47583d30d46f714e84b528f2d8ad7b015a775f",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-051.json",
+    "items": {
+      "captured.png": {
+        "sha256": "a788741d9f7ad48ef34b947609fafcb2a65cd8ed978b37b71924fbd7d534e195",
+        "bytes": 440412,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "47430791a974788820daeaaa681f112876a52525ffa54ba837ad00a39e1ad549",
+        "bytes": 743733,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295711359-427094b7.zip",
+    "sourceArchiveSha256": "5399c4f6563c0c785d2b808dc4e10389fc30b55ff3bc1ca0d92318e28f2255d0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-052.json",
+    "items": {
+      "captured.png": {
+        "sha256": "67c5c00374c4a7aa412cd81795276890040e1d44c833500098469558f2a77e8b",
+        "bytes": 410454,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "4eb53987d2c95db1f060b0b31df5a80823fdbedf6e1d1f8564ac5e6215d59766",
+        "bytes": 781252,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791295714554-d26ebe92.zip",
+    "sourceArchiveSha256": "6ad0138491407948f37c702246e5862ca9041a65495ede59973252b7bb90906f",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2700,
+      1224
+    ],
+    "frame": [
+      1125,
+      875
+    ],
+    "viewport": {
+      "x": 1127,
+      "y": 171,
+      "width": 1125,
+      "height": 875
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "a1ea1537-96d2-40bb-90a3-c615d2c158f8",
+    "floor": "1f",
+    "caseIndex": "cases/case-053.json",
+    "items": {
+      "captured.png": {
+        "sha256": "5d7c9e2e786bd81e8cbfe824f7406cb61e9f1935855329c0c5dd02272a3f764e",
+        "bytes": 367213,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "716bea3cb23ac1e3300d5dae9f202cc026294182132ca781eb226d112a143b58",
+        "bytes": 329513,
+        "pack": "batch-004"
+      },
+      "diagnostics.json": {
+        "sha256": "b5efbb9d64c26dc294b88a9dc3f83ffaeb39d4d5eef4e6ac0d1e9162c4a5f385",
+        "bytes": 905833,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296050876-08bc6ecf.zip",
+    "sourceArchiveSha256": "5d6a7afd7784f12958a9524cf09b55d61433615c90171f51b9fcd7abe20ea4f3",
+    "originalTerminal": "rejected",
+    "originalOutcome": "REJECTED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-054.json",
+    "items": {
+      "captured.png": {
+        "sha256": "1c1123a04d9ce16d1679e6bcd053fca80791ea4647b1f027f9d48ddb3c61dd24",
+        "bytes": 268481,
+        "pack": "batch-000"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "3f052379f5a95abaf49ea735553ffd216cc94083bfe2e3f932b05c2499737cc8",
+        "bytes": 2935769,
+        "pack": "batch-000"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296052536-253d7f09.zip",
+    "sourceArchiveSha256": "5b3d7f34252afd1ae3292cc15ec483c700505726ee2a14f20954d6faf7e83f3e",
+    "originalTerminal": "rejected",
+    "originalOutcome": "REJECTED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-055.json",
+    "items": {
+      "captured.png": {
+        "sha256": "0605516c8a920c9ecab59367e2dec71d79d2837047f6e6a88e4b90c6ba0b8334",
+        "bytes": 272242,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "b32bcfd64301d8e342729f895db60570019153b38a8697f362832ba528278efe",
+        "bytes": 2852748,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296055722-adb94cd2.zip",
+    "sourceArchiveSha256": "ffb9d8c9f95dfa7136ba321e21af2b4d3daf448368a5706b01e8beabb603c17d",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-056.json",
+    "items": {
+      "captured.png": {
+        "sha256": "686b5f74f1548d84032b8c27aea7b8f04f1a731ab4fb0753cf493e4bbb17e646",
+        "bytes": 280456,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "7119e6f87676b820d4f8971bf934c7e6b7d32a87731728e04205ff7d78f059f5",
+        "bytes": 693694,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296058525-19e67439.zip",
+    "sourceArchiveSha256": "ec908ed9a0bafbb19ae02d14ca02196449b8d27a590fc900eb9ea45d4156c9d6",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-057.json",
+    "items": {
+      "captured.png": {
+        "sha256": "8ff0852c49b2e6999867978b9da154fc19ff7b5f848ea9d556a4d7f21df79404",
+        "bytes": 280778,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "a5f3fb51fdf97d3762946680e11bce326e7f0a3e60708e666402164cbc5bc17f",
+        "bytes": 684104,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296062803-cca1325b.zip",
+    "sourceArchiveSha256": "1434ff53a4043d73a582a289ae1ab226fb3019a8c6889cbdd3630c7500200173",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-058.json",
+    "items": {
+      "captured.png": {
+        "sha256": "819b91c0e7d5a54075fa18d7d105ce7417234261751839488d6235c4db8b2906",
+        "bytes": 280785,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "7c9cc0d9fb59ac70a3a9a9d04e04194f35ab14650239490d056b34b3027e9740",
+        "bytes": 808376,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296065670-5d91cbda.zip",
+    "sourceArchiveSha256": "c7a612999c5c5c1b725768852d5f4433f146f68204efeaeb9971deae3493cf8e",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-059.json",
+    "items": {
+      "captured.png": {
+        "sha256": "38009a19df080146b7abcfd92dfe9af5e98104ca970c4fb1fc840b78940b6894",
+        "bytes": 281227,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "2e734f154f8518730018e68a4c278e9b47071bea43b85d90844af6a44bb663aa",
+        "bytes": 793829,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296070272-e0c23b74.zip",
+    "sourceArchiveSha256": "39d8e4ae66404bd0d9e9ee97f0d6b93ce41d661b3116278bf3e4bcd21861c4df",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-060.json",
+    "items": {
+      "captured.png": {
+        "sha256": "d37e4f04c2d0e0bb8ec073ff600dfd762d25e81dc375001840b2bd416bb54b18",
+        "bytes": 280518,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "d7305d48879e17a581ece6705ce1290ed5a7fad74dd3d6ba5f5c4c20d8bc5e4d",
+        "bytes": 676947,
+        "pack": "batch-006"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296073918-1860cbbc.zip",
+    "sourceArchiveSha256": "7b2afcb3dd240937dfdb1b48cf2a7bc72f812c6efd642530b40f45587af80482",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-061.json",
+    "items": {
+      "captured.png": {
+        "sha256": "ac5461c2646c7e885478bb53cc25bd2a770b3247cd771423460fc5bafa6e9f7d",
+        "bytes": 266905,
+        "pack": "batch-006"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "6474fdca781c7412480653ae854a014ec4f8110e14bc32ec7bcd52c2e9ab0b20",
+        "bytes": 4483113,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296079028-0323368a.zip",
+    "sourceArchiveSha256": "3266166fc6605a219a581db48eabf22d201d5fa366c55ec85afc30bc5d7160f0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-062.json",
+    "items": {
+      "captured.png": {
+        "sha256": "25e29e05d9c22c9326ec072ab9f69d8d729605c0d168f73954389a24bb82e5f9",
+        "bytes": 314437,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "b2e1196c7a5e94a202968b5af164e2d1c3f88a604e04027049a2898b1687283f",
+        "bytes": 713160,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296083651-78ddadaf.zip",
+    "sourceArchiveSha256": "e1441c52d6089d4797c2c1b401a5006ede0d4acf314b0b2fe1cc123e82d50ce6",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-063.json",
+    "items": {
+      "captured.png": {
+        "sha256": "ca81902968cff72e62556c53622db6310f18df50aa2dabb867453d88e1650af1",
+        "bytes": 333565,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "43aa3654fedab5aa0febcd4726c36db81f5a1db576cd39fdcf5e39a1fd4b3513",
+        "bytes": 888344,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296085625-0d9cfe87.zip",
+    "sourceArchiveSha256": "a421a24b5b9a1db6d7c8e7763914acaa4acaeeaee672a5102d8f09f52690e025",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-064.json",
+    "items": {
+      "captured.png": {
+        "sha256": "ef64acdcef9099670fc2fad28267bf0735f49b20e5bfc34d1b9e033660557b30",
+        "bytes": 341872,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "3a5586a22fe23b4960952c682fa0ec836d10efd215c455c75a3e1900b4cebca8",
+        "bytes": 850790,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296088297-4991c521.zip",
+    "sourceArchiveSha256": "c6fdd768b3589af2bb134b9364b9b2851915a3930126b78d9981e4d9f433cd03",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-065.json",
+    "items": {
+      "captured.png": {
+        "sha256": "c51cfdf173e3c2a6839dd27d6aa6c5f0a41a1aa6d2513fb1458b4466d3f9eb0c",
+        "bytes": 350764,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "ab9a5fc77a7879289f9c9edec18a23630c0be35dd8db42362cea4cc1357a44fc",
+        "bytes": 638132,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296092322-6d9f8658.zip",
+    "sourceArchiveSha256": "654d973650719465d53fccd972c7682b4164b1e2bb0f96da755dd263ce18311f",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-066.json",
+    "items": {
+      "captured.png": {
+        "sha256": "9699800fff671d758b033c023a790891898eeefba32d714237b0bba55a65cb8d",
+        "bytes": 348175,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "0cda82b75a239a1d32b8d207dd226a1bf332e07b14b6d87e1ced012185fc1a7a",
+        "bytes": 619804,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296096187-56a29c8d.zip",
+    "sourceArchiveSha256": "72bc3c5a724428c9b1f5c20fe02f4ca642a3120fd005875f28650958f26e5445",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-067.json",
+    "items": {
+      "captured.png": {
+        "sha256": "8375670c1d1f78f94ca3488e9b2e9b95cfd457c3fc3f35c7ba14c49bb0e3d8d5",
+        "bytes": 357497,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "867ac9097a49045d511c8e9582d0614b82ce0967500970a6d067c75938ee6700",
+        "bytes": 600770,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296100142-d85e0c1c.zip",
+    "sourceArchiveSha256": "f89985a289f3d5273a2128604294151c4f763a1948efe4a009b1004c25c17804",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-068.json",
+    "items": {
+      "captured.png": {
+        "sha256": "684af7985b07244db7cc769cc29869abef97ba36145e649d78b50d4f8fedfd44",
+        "bytes": 389693,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "767e770c0338810e491ac7a6361b298ee5d770c4528f80dccc91df5f33931ea8",
+        "bytes": 711887,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296103514-436930da.zip",
+    "sourceArchiveSha256": "9915d42ad62fb42866ada2eeb9d026c42a4099bc37de1302f97a84c5567836e8",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-069.json",
+    "items": {
+      "captured.png": {
+        "sha256": "76ab09b8b3e58db4d7ff940fc4070198cba4e0859fe97d7a5966f206aa3cd987",
+        "bytes": 401666,
+        "pack": "batch-007"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "e098ad91baa0c44bd2a9d504c0e34b24dd33c5b1269ea48690b016b7d2fc5f3d",
+        "bytes": 726055,
+        "pack": "batch-007"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296107696-1339ed38.zip",
+    "sourceArchiveSha256": "cec918722ae93b8d9ed69bc8d517f70a06c7373a447194a2159b1b86069da59d",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-070.json",
+    "items": {
+      "captured.png": {
+        "sha256": "e326277ab0201202da5b5dd070e9e8f1018c77d13623e94b6bdf568bcbdf329c",
+        "bytes": 397187,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "f469cd03c278a5e812e02c01a425018b1813fa5861d9bd8c1e7a7370d32c6c30",
+        "bytes": 843081,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296112386-aefabe89.zip",
+    "sourceArchiveSha256": "56a28fd6ab626275cd5954868ca328804db6f1119357cd7887958f5c73016fb6",
+    "originalTerminal": "rejected",
+    "originalOutcome": "REJECTED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-071.json",
+    "items": {
+      "captured.png": {
+        "sha256": "3686e70afdaa8c204f0e9c4820d007fc130e6acadb96e5850a048bf09ea33ef9",
+        "bytes": 372852,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "165e3a1893fa12bd082a4b2c468c538cb66ca99d6be526b90cf442d51140415b",
+        "bytes": 4418644,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296114875-6e7d2b4e.zip",
+    "sourceArchiveSha256": "162707854a1fe6b3ed3d7e7bf1423fc6a4f4434159a03a091b4096874dd78300",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-072.json",
+    "items": {
+      "captured.png": {
+        "sha256": "0e78b12f8cd970f9c492244454fc27c0acacf64942cca2825e300ff1c266c068",
+        "bytes": 356533,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "bc8c40f164453efe14dc8fbc4a094d7a11e87ff5c3e43d33ba98536bc5e71e32",
+        "bytes": 757582,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296133894-4934c9e9.zip",
+    "sourceArchiveSha256": "b89840a59307352bdb270a6e1927b21bd3f9308195ce945c3033980d5e342a2b",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-073.json",
+    "items": {
+      "captured.png": {
+        "sha256": "fd10a784ea3a83a2409722d4c7521aaea7982cedcbc0ba17bbe55a5f49fb0343",
+        "bytes": 331714,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "8ffc5a4ffe17f68207c95a4d823cd15720cd99c9e079ec0103bb1e4fa503377b",
+        "bytes": 701820,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296138005-f3423f63.zip",
+    "sourceArchiveSha256": "96fc96efb0020304063fd25a9450dd7a390d268bb0cba235fd10aaf259fe5b46",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-074.json",
+    "items": {
+      "captured.png": {
+        "sha256": "144d37d8b59e76587255573673cb3efc1409bd92d3479755107510dc3147351a",
+        "bytes": 342499,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "81f959b80d9cc542ae71c9479f315c09a22e1939772848a3f7444b860ad109c3",
+        "bytes": 548998,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296140940-f4f61697.zip",
+    "sourceArchiveSha256": "9ee0c2607ac45c9d1b85ed2a82b9811f3aceac37243cb12771bdca386bbcb62d",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-075.json",
+    "items": {
+      "captured.png": {
+        "sha256": "69038e40dbe33defb07588105d77f913f89cf4258ad3d23a56d4b4060a311afe",
+        "bytes": 356933,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "432280079700a9bf81688f26d94b48c792d929084a1bda456fdec0fbbbc67ec0",
+        "bytes": 548872,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296144225-011e2595.zip",
+    "sourceArchiveSha256": "2b2199a560737d9d82d3ce425970d94bd7194b83af6c6bf790ac18b20ca9b3cb",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-076.json",
+    "items": {
+      "captured.png": {
+        "sha256": "5ea10ed6436c538a66137442ac37dcbe7831c321d8a98fa55839b0dcd3e53658",
+        "bytes": 392300,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "5a1b61fd2431bbb11288b03ca7cf3f6075a7a5a8b39eb6d9cb583c87900042f1",
+        "bytes": 551128,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296147408-73291ae6.zip",
+    "sourceArchiveSha256": "2df730c44e1820953c1c7d055ac442f786d0aec644b3e1f7cdb36ede0d27c98e",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-077.json",
+    "items": {
+      "captured.png": {
+        "sha256": "2a42686803716eaa51ada8d5c50e7d744df442c714337a7716db7fe5d0d3d385",
+        "bytes": 401363,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "da9cb2852576c9c1427996302b94131a7c375c090d5d1a2a0e414f080d55b3de",
+        "bytes": 730463,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296152771-a03896d3.zip",
+    "sourceArchiveSha256": "0932ff05140fd06d52b916fc93e76a5c8b1b6f2af0d5ee7ceaab8b0251808811",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-078.json",
+    "items": {
+      "captured.png": {
+        "sha256": "d13f47afaf46cceceb757a8fbfc882a39c2c8b5af9090d70648d1a63de6d79cb",
+        "bytes": 414747,
+        "pack": "batch-008"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "2d9036be03e72cd61e2447791f38306883937a4c7c0cb6c737362c52195b5817",
+        "bytes": 622555,
+        "pack": "batch-008"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296156143-152fb3b4.zip",
+    "sourceArchiveSha256": "abe1214621731594230e563884e1f7b5f525435b1ce6f54dab83ace87b2b70a0",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-079.json",
+    "items": {
+      "captured.png": {
+        "sha256": "98b43cba5c18767e85a5cc64d80bd7ded07ba4d946688a9fdc60b7e1078f7384",
+        "bytes": 425539,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "45bc03559665ef2a361d95fd63d1afdb0c18e5959d92fdfbe6e1b2a89ea2e237",
+        "bytes": 562397,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296159610-2b046477.zip",
+    "sourceArchiveSha256": "ec6a7c95c9188bb0f3eead3389205c6e88c80868a4af16a9478b2b31385998ff",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-080.json",
+    "items": {
+      "captured.png": {
+        "sha256": "aaaa1b4de3de58b75d74588f4a8029756e582d7d56688daf57420280d9cd5b88",
+        "bytes": 450010,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "894cf39166c1398d513ff6fff33618a1348bacdf9ab519687a2f95250a414015",
+        "bytes": 1021404,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296165891-f1d4a305.zip",
+    "sourceArchiveSha256": "98ec991518aeac2f94e1d0656b06fc1f63d69fabea113a819d1ff0536264e9de",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-081.json",
+    "items": {
+      "captured.png": {
+        "sha256": "3f029e034be540392b41455dbe9ca82902ec9b4da3e59a3fd868db0a110b356e",
+        "bytes": 466587,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "450858409027afe1bb39fb61e2ac2d4d7a2578d5c698418dcd36369a6386ec55",
+        "bytes": 621891,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296168248-5ef7dc8a.zip",
+    "sourceArchiveSha256": "e59d0e358bcdab1417f1a16bcb902795b4e27f8ef1d751df0f82a3de82dfa56f",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "2f",
+    "caseIndex": "cases/case-082.json",
+    "items": {
+      "captured.png": {
+        "sha256": "4c6942469150a5ad2fddc9dac121d7756c61760bac01202f7e6db5f0f38296f5",
+        "bytes": 441575,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "4ca3bc345eef80fea2b1cd7672c6ed4d3af5f62d211daecdb729481efd28c5de",
+        "bytes": 605680,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296172651-2a247ace.zip",
+    "sourceArchiveSha256": "186e1cb63579e2a9a8281a7065ddfd3c684adad30242422187292909e73f4dd5",
+    "originalTerminal": "rejected",
+    "originalOutcome": "REJECTED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-083.json",
+    "items": {
+      "captured.png": {
+        "sha256": "5b94fa1eacf2f4724278fea666d6bb9ca0408288cde254b3c0a635a86f0cafe2",
+        "bytes": 292873,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "eb694abacf3f67eb719005c15047d0c7b926ec41a5539428e503b89efee51237",
+        "bytes": 266089,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296175652-3dd03100.zip",
+    "sourceArchiveSha256": "6e8268e0855fe923104c8a58d98afc3ac2e7ea33746869837940d5f3eb59aa3a",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-084.json",
+    "items": {
+      "captured.png": {
+        "sha256": "e17876b70393885ab10fd9f74ba627bf55a1b290c69f192c8bfc91a940de9d6e",
+        "bytes": 283897,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "1c75dbc6d67c3e8889fcdb1a0658c71f4e2ae715073625e01e5c534dfa27d840",
+        "bytes": 437257,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296178120-52efe04d.zip",
+    "sourceArchiveSha256": "99f29265a55747bde75366bfaa82c7610d3485c92d78ae9b80f9d5462ac6cdbb",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-085.json",
+    "items": {
+      "captured.png": {
+        "sha256": "761bd392d6634a1d2c83471bfdeff9a20cb7bff8cede3cedb3b07cef43a11414",
+        "bytes": 292214,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "c79d6041d06c0283af268a3ce02dc7313b6c68a111565b99b987e48617a65673",
+        "bytes": 622302,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296182513-381bc8d7.zip",
+    "sourceArchiveSha256": "156261259d086c8a1acf03d3b3362568295db8f5760027536be98c024d82cc5a",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-086.json",
+    "items": {
+      "captured.png": {
+        "sha256": "1c0fcf3ec36ce3f6e0dd112d96c32799d1d18071023efe5e29b4587d9318893e",
+        "bytes": 263010,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "f5ef7dece96a4a60089e065234e0ffc235427c44ca4568b09390b1451d37c7ac",
+        "bytes": 685963,
+        "pack": "batch-009"
+      }
+    }
+  },
+  {
+    "input": "alignment-1791296187341-7a9b11b4.zip",
+    "sourceArchiveSha256": "aba811abae30787fcd2f5ccfa1270bcdbcbfee3b2b1d8d809d6ce1198871755b",
+    "originalTerminal": "drawn",
+    "originalOutcome": "ALIGNED",
+    "screen": [
+      2560,
+      1440
+    ],
+    "frame": [
+      1307,
+      1040
+    ],
+    "viewport": {
+      "x": 737,
+      "y": 186,
+      "width": 1307,
+      "height": 1040
+    },
+    "runtime": {
+      "sdk": 34,
+      "androidRelease": "14",
+      "manufacturer": "XIAOMI",
+      "model": "2509FPN0BC",
+      "abis": [
+        "x86_64",
+        "arm64-v8a",
+        "x86",
+        "armeabi-v7a",
+        "armeabi"
+      ],
+      "availableProcessors": 6,
+      "openCvVersion": "4.12.0",
+      "openCvAvailable": true,
+      "openCvThreads": 2
+    },
+    "productVersion": "v0.4.3",
+    "buildVersion": "b00.4-26.10.06.0401",
+    "mapId": "e5f19d60-0df5-4be1-a8c1-5dbb44f46bd2",
+    "floor": "1f",
+    "caseIndex": "cases/case-087.json",
+    "items": {
+      "captured.png": {
+        "sha256": "f88c62a903c18d86db2d8d49b61f14b91c9d57c62a99b221e247cd580e9020ce",
+        "bytes": 247953,
+        "pack": "batch-009"
+      },
+      "reference-source.png": {
+        "sha256": "a144b8e35b73d378022b4e33eab2a0f79576fae7c11ddcbec41ba34c6dfd0f77",
+        "bytes": 485880,
+        "pack": "batch-000"
+      },
+      "diagnostics.json": {
+        "sha256": "123762b503527986df8181ad9c4641153c076006501330b63a143c15dd06bb27",
+        "bytes": 597041,
+        "pack": "batch-009"
+      }
+    }
+  }
+]

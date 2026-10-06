@@ -1,0 +1,57 @@
+{
+  "format": "idvb-base64-zip-v1",
+  "id": "batch-013",
+  "archive": {
+    "filename": "batch-013.zip",
+    "bytes": 726593,
+    "sha256": "af809ddbd4ac7dce115475f90f6df0c94dd95ed1c732cfa13e3e3a94fe335b4d"
+  },
+  "chunks": [
+    {
+      "path": "packs/batch-013/part-00000.b64",
+      "encodedBytes": 174935,
+      "decodedBytes": 131072,
+      "encodedSha256": "8ed07ffc080e59f0085288a9382b3bcd01112808eb0825abd4f0e92b3680bb76",
+      "decodedSha256": "547f2bb820886afa395dacb890ccc0c33e05318f73f13dce4ec40e3c3f14cb4e"
+    },
+    {
+      "path": "packs/batch-013/part-00001.b64",
+      "encodedBytes": 174935,
+      "decodedBytes": 131072,
+      "encodedSha256": "63f8b61635a926ef637b0035158a3af67e605b05100c1492e9cddc24b9a814da",
+      "decodedSha256": "33560afe5611257e584e0d3a1103a7731e775f619eda3b19d57200924549e0bf"
+    },
+    {
+      "path": "packs/batch-013/part-00002.b64",
+      "encodedBytes": 174935,
+      "decodedBytes": 131072,
+      "encodedSha256": "79a48aafe1df9cb61bfd62e9673e93c8b6343ab6bd37c29de38f3701be01811b",
+      "decodedSha256": "a82f489269223c127916279119e9464ce3aa8052124aba1c531b0101f287f9ff"
+    },
+    {
+      "path": "packs/batch-013/part-00003.b64",
+      "encodedBytes": 174935,
+      "decodedBytes": 131072,
+      "encodedSha256": "a92f063ea107db290c2d29cb200b4dd9323c4a5a43878b267df29dfc1cb2c88f",
+      "decodedSha256": "7744c8dc6703409310dbdfd6834f902c896e82112b6a0164fde79fcb84c7e0a0"
+    },
+    {
+      "path": "packs/batch-013/part-00004.b64",
+      "encodedBytes": 174935,
+      "decodedBytes": 131072,
+      "encodedSha256": "fb65330e11b0c4fc82281645311759035c18be6a3be0e44192010ef87d1ec645",
+      "decodedSha256": "701ec1c056e80faf744927d1273f209b1eb763479f9504e13959b6ddb2c064a5"
+    },
+    {
+      "path": "packs/batch-013/part-00005.b64",
+      "encodedBytes": 95073,
+      "decodedBytes": 71233,
+      "encodedSha256": "c3687fc7238e61b9b77ae2a4204b6fa7e0dbb77172bc210d62b6d4e47b667ca5",
+      "decodedSha256": "7193e15993d17534866c5aaabf1cbb4b360b9db5edff2d5c9ba990c59d220fd3"
+    }
+  ],
+  "roundtrip": "passed",
+  "fileIndexes": [
+    "packs/batch-013/files-000.json"
+  ]
+}

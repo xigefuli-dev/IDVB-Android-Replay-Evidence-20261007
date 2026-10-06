@@ -13,5 +13,9 @@
     "sourceArchives": 184,
     "transportZipBytes": 80936095,
     "transportChunks": 625
-  }
+  },
+  "fullArchiveRoundtrip": true,
+  "internalObjectHashesVerified": 1862,
+  "aliasMappingsVerified": 62832,
+  "decodedChunksVerified": 625
 }
